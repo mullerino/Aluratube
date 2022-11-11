@@ -1,7 +1,7 @@
 {
-    "name": "Mario Souto (DevSoutinho)",
-    "job": "Lead Software Engineer",
-    "github": "omariosouto",
+    "name": "Leandro Müller",
+    "job": "Graduando em Eng. Elétrica",
+    "github": "mullerino",
     "playlists": {
         "jogos": [
             {
@@ -52,7 +52,7 @@
                 "thumb": "https://img.youtube.com/vi/jOAU81jdi-c/hqdefault.jpg"
             },
             {
-                "title": "Jogo com JavaScript #01: Criando um Flappy Bird do ZERO!!!",
+                "title": "LANDING PAGE COM HTML e CSS!",
                 "url": "https://www.youtube.com/watch?v=llF6vD-RljE",
                 "thumb": "https://img.youtube.com/vi/llF6vD-RljE/hqdefault.jpg"
             },
@@ -129,5 +129,22 @@
                 "thumb": "https://img.youtube.com/vi/0JWMVc1CqpA/hqdefault.jpg"
             }
         ]
+    },
+    "favoritos": {
+        "Paulo": 
+            {
+                "nome": "@peas",
+                "url" : "https://avatars.githubusercontent.com/u/71636?v=4"
+            },
+        "Rafa": 
+            {
+                "nome": "@rafaballerini",
+                "url" : "https://avatars.githubusercontent.com/u/54322854?v=4"
+            },
+        "Mario": 
+            {
+                "nome": "@omariosouto",
+                "url" : "https://avatars.githubusercontent.com/u/13791385?v=4"
+            }
     }
 }

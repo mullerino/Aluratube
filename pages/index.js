@@ -1,19 +1,22 @@
 import styled from 'styled-components'
-import config from "../config.json"
+import Banner from '../src/components/Banner';
 import { CSSReset } from '../src/components/CSSReset'
 import Menu from '../src/components/Menu';
+import config from '../config.json'
 import { StyledTimeline } from '../src/components/Timeline';
+import Favoritos from '../src/components/Favoritos';
+
 
 function HomePage() {
-    const estiloHeader = {}
-
     return (
         <>
         <CSSReset/>
-        <div style={estiloHeader}>
+        <div>
             <Menu/>
-            <Header></Header>
+            <Banner url = 'https://images.unsplash.com/photo-1483478550801-ceba5fe50e8e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80'/>
+            <Header/>
             <TimeLine playlists={config.playlists} />
+            <Favoritos info = {config.favoritos}/>
         </div>
         </>
     );
@@ -24,6 +27,7 @@ export default HomePage
 
 const StyledHeader = styled.div`
     .user-info{
+        margin-top: 50px;
         display: flex;
         align-items: center;
         width: 100%;
