@@ -61,6 +61,11 @@ const StyledFav = styled.div`
         text-align: center;
     }
 
+    .content:hover{
+        transform: scale(1.05);
+        transition: transform 0.5s linear;
+    }
+
 `;
 
 export default Favoritos
