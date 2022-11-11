@@ -21,4 +21,4 @@ Esse projeto não possui um sistema de versionamento.
 Da uma olhada na aba [Releases](https://github.com/mullerino/aluratube/releases) pra acompanhar as alterações feitas no projeto.
 
 ## License/Licença do Projeto
-[MIT License](./LICENSE.md) © [Leandro Müller](leandro-muller.soukick.com.br/index/)
+[MIT License](./LICENSE.md) © [Leandro Müller](http://leandro-muller.soukick.com.br/index/)
