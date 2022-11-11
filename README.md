@@ -2,8 +2,6 @@
 
 [![licence mit](https://img.shields.io/github/license/mullerino/Aluratube)](https://github.com/afonsopacifer/open-source-boilerplate/blob/master/LICENSE.md)
 
-- [Switch to 🇺🇸](./_docs/README_en-us.md)?
-
 Projeto desenvolvido durante a Imersão React promovida pela Alura.
  
 Quer ver como ta ficando? Acessa a [**DEMO**](https://aluratube-livid-mu.vercel.app)
